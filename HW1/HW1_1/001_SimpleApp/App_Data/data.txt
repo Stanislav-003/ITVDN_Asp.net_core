@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, IPhone, 3
+2, Laptop, 3200, HP, 9000
+3, Keyboard, 35, Logitech, 1900
+4, Mouse, 10, Dell, 7500
+5, Pen, 1, Samsung, 0
+6, Notebook, 1, BuroMax, 300

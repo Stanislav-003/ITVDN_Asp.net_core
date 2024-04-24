@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\views\\list\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:views\\list\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\views\\test\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:views\\test\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hw asp.net core\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87439BC7-679F-45CB-9651-72F17AD75D11}|MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\List\\Info.cshtml",
+              "RelativeDocumentMoniker": "Views\\List\\Info.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\List\\Info.cshtml",
+              "RelativeToolTip": "Views\\List\\Info.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T10:53:02.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\ListController.cs",
+              "RelativeToolTip": "Controllers\\ListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:52:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\Test\\Message.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Message.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\Test\\Message.cshtml",
+              "RelativeToolTip": "Views\\Test\\Message.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T10:51:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:50:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T10:37:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:37:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\HW Asp.net core\\MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:22:55.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
